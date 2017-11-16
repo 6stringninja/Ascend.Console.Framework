@@ -2,16 +2,18 @@ Wasted a day in my life on an application not "good" enough for being worthy of 
 
 ## Reasons I suck ##
 
-1. Trek, expects you to bloat it with nuget packages (I lacked) and are incapable of running "dotnet restore"
+1. Trek, expects you to bloat it with nuget packages (I lacked) and are incapable of NOT running "dotnet restore" (probably right click , check restore). Not that it was required for this as all the libs for this "Simple" app are standard framework. Which is not complicated enough for the simplicity trek is looking for.
 
-2. The testing framework that ships with VS2017 (current at the time) is "obsolete", consult nostradomas for prefered third party.
+2. The testing framework that ships with VS2017 (current at the time) is "obsolete", consult nostradomas for prefered third party. You have a choice of 2 standard, don't choose "unit tests" even though they say "unit tests" as they expect nunit to prove your mind reading abilities.
 
-3. They expect EF framework as demonstrating anything that isn't generated is "legacy" apparently.
+3. They expect EF framework as demonstrating anything that isn't generated is "legacy" apparently. 
+
+4. Design pattern, architecture or clean code gets is optional. 
 
 
 below is the requirements. Please Don't suck
 
-# Ascend.Console.Framework
+# Ascend.Console.Framework - Requirements (although you will get rejected if followed)
 Example App NOT good enough to get hired at Trek Bikes. https://www.trekbikes.com
 
 Ascend Development Exercise
