@@ -8,7 +8,7 @@ Wasted a day in my life on an application not "good" enough for being worthy of 
 
 3. They expect EF framework as demonstrating anything that isn't generated is "legacy" apparently. 
 
-4. Design pattern, architecture or clean code gets is optional. 
+4. Design pattern, architecture or clean code is optional and not recognizable by the reviewers anyways. 
 
 
 below is the requirements. Please Don't suck
