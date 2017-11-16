@@ -1,3 +1,5 @@
+Wasted a day in my life on an application not "good" enough for this trek. Required to provide a sample that was rejected do to the lack of mind reading and their appetite for wasting peoples time. Please Review..but don't use :) as it "sucks".
+
 # Ascend.Console.Framework
 Example App NOT good enough to get hired at Trek Bikes. https://www.trekbikes.com
 
