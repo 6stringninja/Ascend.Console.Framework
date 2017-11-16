@@ -1,4 +1,11 @@
-Wasted a day in my life on an application not "good" enough for being worthy of employment trek. Required to provide a sample that was rejected do to the lack of mind reading and their appetite for wasting peoples time. Please Review..but don't use :) as it "sucks".
+Wasted a day in my life on an application not "good" enough for being worthy of employment at trek. Required to provide a sample that was rejected do to the lack of mind reading and their appetite for wasting peoples time. Please Review..but don't use :) as it "sucks". 
+
+Trek, expects you to bloat it with nuget packages (I lacked) and are incapable of running "dotnet restore"
+The testing framework that ships with VS2017 (current at the time) is "obsolete", consult nostradomas for prefered third party.
+They expect EF framework as demonstrating anything that isn't generated is "legacy" apparently.
+
+
+below is the requirements.
 
 # Ascend.Console.Framework
 Example App NOT good enough to get hired at Trek Bikes. https://www.trekbikes.com
