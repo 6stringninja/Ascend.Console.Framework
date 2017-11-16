@@ -1,4 +1,4 @@
-Wasted a day in my life on an application not "good" enough for being worthy of employment at trek. Required to provide a sample that was rejected do to the lack of mind reading and their appetite for wasting peoples time. Please Review..but don't use :) as it "sucks". 
+Wasted a day in my life on an application not "good" enough for being worthy of employment at trek. Required to provide a sample that was rejected due to the lack of mind reading and their appetite for wasting peoples time. Please Review..but don't use :) as it "sucks". 
 
 ## Reasons I suck ##
 
