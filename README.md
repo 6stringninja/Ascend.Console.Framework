@@ -13,9 +13,9 @@ Wasted a day in my life on an application not "good" enough for being worthy of 
 
 below is the requirements. Please Don't suck
 
-# Ascend.Console.Framework - Requirements (although you will get rejected if followed)
+# Ascend.Console.Framework - Requirements 
 Example App NOT good enough to get hired at Trek Bikes. https://www.trekbikes.com
-
+# WARNING (Don't waste more then 10 minutes on this app)
 Ascend Development Exercise
 Simple Application
 Develop a simple console application that allows the user to enter and review sales information.
